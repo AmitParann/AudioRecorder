@@ -1,0 +1,9 @@
+After every change:
+
+git status (Check if theres changes)
+
+git add .
+
+git commit -m "(enter explanation here)"
+
+git push
